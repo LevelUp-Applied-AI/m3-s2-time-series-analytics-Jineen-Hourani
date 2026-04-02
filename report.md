@@ -28,3 +28,8 @@ This report provides a comprehensive analysis of e-commerce performance using ad
 
 Manual data validation was performed to ensure SQL result accuracy against raw CSV counts.
 
+## 4. Recommendations
+* **Double Down on Electronics:** Given its 49% revenue share, increase marketing budget for this category.
+* **Retention Campaign:** Target cohorts from May and June with loyalty discounts to improve their 90-day retention rates.
+* **Seasonal Readiness:** Prepare for high growth in October by increasing inventory levels in late September.
+
